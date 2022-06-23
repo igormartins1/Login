@@ -24,6 +24,15 @@
                         <i class="fas fa-user"></i>
                         <input type="password" placeholder="Password">
                     </div>
+                    <input type="submit" value="Login" class="btn solid">
+
+                    <p class="class-social">Or sign in with social platform</p>
+                    <div class="social-media">
+                        <a href="#" class="social-icon"></a>
+                        </a><a href="#"class="social-icon"></a>
+                        </a><a href="#" class="social-icon"><a>
+                        </a><a href="" class="social-icon"></a>
+                    </div>
                 </form>
             </div>
 
