@@ -21,7 +21,35 @@
                     <h2 class="title">Sign-in</h2>
                     <div class="input-field">
                         <i class="fa fa-sign-in"></i>
-                        <input type="text" placeholder="Username">
+                        <input type="text" placeholder="Usuário">
+                    </div>
+                    <div class="input-field">
+                        <i class="fa fa-lock"></i>
+                        <input type="password" placeholder="Password">
+                    </div>
+                    <input type="submit" value="Login" class="btn solid">
+
+                    <p class="social-text">Or sign in with social platform</p>
+                    <div class="social-media">
+                        <a href="#" class="social-icon">   <!-- social-->
+                            <i class="fa fa-facebook-f"></i>
+                        </a>
+                        <a href="#" class="social-icon">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                        <a href="#" class="social-icon">
+                            <i class="fa fa-google "></i>
+                        </a>
+                        <a href="" class="social-icon">
+                            <i class="fa fa-linkedin"></i>
+                        </a>
+                    </div>
+                </form>
+                <form action="" class="sign-in-form">
+                    <h2 class="title">Sign-in</h2>
+                    <div class="input-field">
+                        <i class="fa fa-sign-in"></i>
+                        <input type="text" placeholder="Usuário">
                     </div>
                     <div class="input-field">
                         <i class="fa fa-lock"></i>
